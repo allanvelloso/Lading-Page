@@ -1,5 +1,5 @@
 footer{
-    background-color: var(--color-primary-2);
+    background-color: var(--color-primary-2)
 }
 #footer_itens{
     display: flex;
@@ -10,7 +10,7 @@ footer{
 }
 
 #copyright{
-    color: #1d1d1d;
+    color: var(color-neutral-1);
     font-weight: 500;
 }
 
